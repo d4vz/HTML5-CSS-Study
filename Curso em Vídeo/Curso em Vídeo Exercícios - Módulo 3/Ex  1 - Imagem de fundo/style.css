@@ -1,0 +1,28 @@
+/* body{
+    background-image: url(media/images/wallpaper001.jpg);
+    background-repeat: no-repeat;
+} */
+
+div.bloco{
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    background-image: url(media/images/wallpaper002.jpg);
+}
+
+div#b1{
+    background-position: left top;
+}
+
+div#b2{
+    background-position: left center;
+}
+
+div#b3{
+    background-position: right bottom;
+}
+
+div#b4{
+    background-position: center center;
+}
