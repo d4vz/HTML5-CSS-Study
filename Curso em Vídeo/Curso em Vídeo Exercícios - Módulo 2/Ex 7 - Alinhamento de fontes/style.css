@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font: normal 16px arial;
+  
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: left;
+}
+
+p{
+  text-align: justify;
+  text-indent: 20px;
+}

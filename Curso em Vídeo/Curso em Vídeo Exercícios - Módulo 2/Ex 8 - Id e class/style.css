@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/* Em html "#" = "id"
+   Em css "." = "class" */  
+   
+body{
+  background-color: #4660E3;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+#principal{
+  text-align: center;
+  background-color: #6982FF;
+  border-radius: 10px;
+  padding: 10px;
+  color: #C7D4FF;
+}
+
+.tittle{
+  color: #C7D4FF ;
+}
+
+.subtittle{ 
+  color:#ACBFFC;
+}

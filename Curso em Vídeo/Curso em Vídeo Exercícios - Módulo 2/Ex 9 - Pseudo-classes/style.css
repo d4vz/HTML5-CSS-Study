@@ -1,0 +1,22 @@
+div{
+  background-color: aliceblue;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.div_1:hover{
+  background-color: green;
+}
+
+.div_2:hover{
+  background-color: yellow;
+}
+
+.div_3:hover{
+  background-color: red;
+}
+

@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+  color: red;
+  text-decoration: none;  /* remove underline */
+}
+
+/* Para "a", quando "visited", change color */
+a:visited{
+  color: darkred;
+}
+
+/* Para "a", quando "hover", change decoration */
+a:hover{
+  text-decoration: underline; /* add underline */
+}
+
+/* para "a", quando "active" -> clicado, change color */
+a:active{
+  color: yellow;
+}
+
+/* para TODO "a", "after" -> depois do link, add "[link]" */
+a::after{
+  content: "[link]";
+}
+
+/* :: = Pseudo-Elements */
+/* : = Pseudo-Class */
+/* > = Children, "dentro de", Ex: "div > p (p dentro de div)" */

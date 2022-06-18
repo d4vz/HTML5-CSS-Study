@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/* Para "p" in "div", quando "Hover", show content */
+div:hover > p{
+  display: block;
+}
+/* Para "p" in "div", hide content */
+div > p{
+  display: none;
+}
+
+/* Hover = If passar o mouse em cima */

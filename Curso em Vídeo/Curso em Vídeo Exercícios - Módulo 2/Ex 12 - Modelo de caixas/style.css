@@ -1,0 +1,15 @@
+h1{
+  background-color: lightgrey;
+  width: max-content;
+  border-width: 3px;
+  border-style: dashed;
+  border-color: black;
+  margin: auto;
+  /* margin: auto; -> deixa a box no meio da tela */
+}
+
+a{
+  border-width: 3px;
+  border-style: dashed;
+  border-color: black;
+}
