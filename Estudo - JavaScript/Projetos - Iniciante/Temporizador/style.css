@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: rgb(201, 26, 201);
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 1rem;
+}
+
+h2{
+    font-size: 2rem;
+    margin: 1rem;
+}
+
+#time{
+    font-size: 5rem;
+    margin: 1rem;
+}
+
+button{
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin: 1rem;
+    border: 2px solid white;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+
+button:hover{
+    background: white;
+    color: rgb(201, 26, 201);
+}
+
+
